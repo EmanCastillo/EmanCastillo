@@ -30,12 +30,11 @@ I'm just a Californian looking to enjoy life to its fullest extent while also tr
 
 ## Projects:
 ### Comet
-<img src="https://github.com/EmmanuelCastilloHernandez/CometBot/raw/master/static/photoToRender/CometProfile.jpg" alt="Comet Offficial Banner" style="height: 300px;" />
+<img src="https://github.com/EmanCastillo/CometBot/raw/master/static/photoToRender/CometProfile.jpg" alt="Comet Offficial Banner" style="height: 300px;" />
 Comet is a Discord Bot built on originally Discord.py, but now it uses PyCord. This bot has many cool features like a 5-page snipe, edit snipe, a music player with Spotify support (sort-of), a flexible warning system, and image commands capable of taking user images as input and generating images based on them.
 
 #### Check Out Comet
-To check out Comet, go to its **[GitHub Page](https://github.com/EmmanuelCastilloHernandez/CometBot)** and to invite it visit its **[Official Website](https://cometbot.emmanuelch.repl.co/)**
+To check out Comet, go to its **[GitHub Page](https://github.com/EmanCastillo/CometBot)** and to invite it visit its **[Official Website](https://cometbot.emmanuelch.repl.co/)**
 
 ## Contacts:
-### Discord: eta_c4rinae#7810
-### Email: emmanuelino2@gmail.com
+### Email: emancastillo2005@gmail.com
